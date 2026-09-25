@@ -1,0 +1,2 @@
+C:\Users\INDIA\ARFireSafetyTraining\ARFireSafetyTraining\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\INDIA\ARFireSafetyTraining\ARFireSafetyTraining\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
